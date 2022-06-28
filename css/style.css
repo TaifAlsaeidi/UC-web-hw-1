@@ -1,0 +1,32 @@
+.Fortnite{
+text-align: center;
+
+
+}
+
+.img{
+    max-width: 100%;
+    height: auto;
+  }
+
+
+.parg{
+    text-align: left;
+    width: 500px;
+    height: 180px;
+    padding: 10px;
+    font-size: larger;
+    font-style: oblique;
+    font-weight: bold;
+  }
+
+ .email{
+    background-color: #7e0c06; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
